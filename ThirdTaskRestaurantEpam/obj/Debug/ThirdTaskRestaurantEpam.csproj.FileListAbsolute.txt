@@ -1,0 +1,9 @@
+D:\СSharpProjects\ThirdTaskRestaurantEpam\ThirdTaskRestaurantEpam\bin\Debug\ThirdTaskRestaurantEpam.exe.config
+D:\СSharpProjects\ThirdTaskRestaurantEpam\ThirdTaskRestaurantEpam\bin\Debug\ThirdTaskRestaurantEpam.exe
+D:\СSharpProjects\ThirdTaskRestaurantEpam\ThirdTaskRestaurantEpam\bin\Debug\ThirdTaskRestaurantEpam.pdb
+D:\СSharpProjects\ThirdTaskRestaurantEpam\ThirdTaskRestaurantEpam\obj\Debug\ThirdTaskRestaurantEpam.csprojResolveAssemblyReference.cache
+D:\СSharpProjects\ThirdTaskRestaurantEpam\ThirdTaskRestaurantEpam\obj\Debug\ThirdTaskRestaurantEpam.exe
+D:\СSharpProjects\ThirdTaskRestaurantEpam\ThirdTaskRestaurantEpam\obj\Debug\ThirdTaskRestaurantEpam.pdb
+D:\СSharpProjects\ThirdTaskRestaurantEpam\ThirdTaskRestaurantEpam\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\СSharpProjects\ThirdTaskRestaurantEpam\ThirdTaskRestaurantEpam\bin\Debug\nunit.framework.dll
+D:\СSharpProjects\ThirdTaskRestaurantEpam\ThirdTaskRestaurantEpam\bin\Debug\nunit.framework.xml
